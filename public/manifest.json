@@ -1,0 +1,15 @@
+{
+  "short_name": "Aptos NFT Minter",
+  "name": "Mint an NFT on Aptos Testnet using Crossmint",
+  "icons": [
+    {
+      "src": "AptosNFT.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
